@@ -45,7 +45,7 @@ void bacaSensor()
   }
   Serial.println(" Times/min");
 
-  //The sensor updates the data every 4 seconds
+  //Sensor akan memperbaharui data setiap 4 detik sekali
   delay(4000);
 }
 
